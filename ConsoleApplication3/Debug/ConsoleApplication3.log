@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication3.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Cardatch.cpp
+C:\Users\Liran\source\repos\ConsoleApplication3\ConsoleApplication3\Cardatch.cpp(187,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Main.cpp
+  Stack.cpp
+  Создание кода...
+  ConsoleApplication3.vcxproj -> C:\Users\Liran\source\repos\ConsoleApplication3\Debug\Card_game_Kalitin.exe
